@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Raymond Onwude
 
 **Finance Systems Architect | Fractional Finance & Treasury Advisor | Builder of DPIO**
