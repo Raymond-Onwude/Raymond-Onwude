@@ -1,58 +1,75 @@
-# Raymond Onwude
+<p align="center">
+  <img src="./e974a26d-9287-4723-8947-ac78fbd38334.png" alt="DPIO Solutions Ltd" width="280">
+</p>
 
-**Finance Systems Architect | Fractional Finance & Treasury Advisor | Builder of DPIO**
+# Raymond Okhia Onwude
 
-I help organizations **answer the questions that matter most**:
-- *Can we make payroll next quarter?*
-- *Are we exposed in an audit?*
-- *Do we actually know where the money is?*
-- *If funding is late, what breaks first?*
-
-I sit at the intersection of **finance, operations, and systems** — turning messy financial reality into clean reporting, forecasting, controls, and decision-ready dashboards.
+**Financial Systems Architect & Treasury Advisor**  
+Founder, **DPIO Solutions Ltd**
 
 ---
 
-## What I do
-### ✅ Fractional Finance (Strategy + Systems)
-- Cashflow forecasting and “what breaks first” scenarios  
-- Board-ready reporting packs & KPI dashboards  
-- Internal controls, audit readiness, risk flags  
-- Funding tracking + program profitability (NGO + grants)  
-- Decision support: staffing, pricing, runway, sustainability  
+I design financial systems that make money **visible, controllable, and decision-ready**.
 
-### ✅ Business Systems Architecture
-- Build and connect systems (ERP/Accounting/CRM/Forms)
-- Automate workflows, reduce manual work, increase clarity
-- Translate leadership goals into measurable operating metrics
+My work sits above bookkeeping and accounting execution. I focus on how financial truth is produced, structured, and trusted—so founders, executives, and boards can make decisions with confidence under growth pressure, cash constraints, or audit scrutiny.
 
 ---
 
-## Current focus
-### 🚀 Building **DPIO**
-DPIO is a finance-first operating system for modern organizations.
+## What I Do
 
-**Products (in order):**
-1. **DPIO Ledger** — reporting, forecasting, controls (MVP focus)
-2. **DPIO Forms** — intake + approvals + audit trail
-3. **DPIO CRM** — revenue pipeline + billing triggers
-4. **DPIO Agent** — AI ops assistant for finance & admin
-5. **DPIO Compute** — isolated client environments (long-term)
+### Financial Systems & Treasury Architecture
+- Cash-flow forecasting and runway analysis  
+- “What breaks first” risk and liquidity scenarios  
+- Ledger and chart-of-accounts design  
+- Internal controls and audit readiness  
+- Executive and board-level financial reporting  
 
-> **Positioning:** *DPIO helps organizations know where the money is — and what happens next.*
+### Business & ERP Systems Design
+- ERP and accounting system configuration  
+- System workflows that reduce manual risk  
+- Financial dashboards and decision frameworks  
+- Advisory support for pricing, growth, and operations  
 
----
-
-## Tech I use
-- **Python**, **SQL**, **Streamlit**, **FastAPI**
-- Postgres, Git/GitHub, cloud deployment (Linux, Nginx, Gunicorn)
-- ERP workflows (Odoo), accounting systems, reporting automation
+I work with both **growing small businesses** and **mission-driven organizations**, operating in a fractional advisory capacity where senior financial clarity is required without full-time overhead.
 
 ---
 
-## Let’s connect
-- LinkedIn: *(add your link)*
-- Email: *(add your email)*
-- Location: Canada (Edmonton)
+## Current Focus
+
+### Building **DPIO**
+DPIO is a financial systems platform designed to enforce clarity, control, and accountability by design.
+
+**Product direction:**
+1. **DPIO Ledger** – reporting, forecasting, controls (current focus)  
+2. **DPIO Forms** – structured intake, approvals, audit trails  
+3. **DPIO CRM** – revenue pipelines and billing visibility  
+4. **DPIO Agent** – operational intelligence for finance and admin  
+5. **DPIO Compute** – isolated client environments (long-term)
+
+**Positioning:**  
+DPIO helps organizations know where the money is—and what happens next.
 
 ---
-⭐ If you’re building an organization and need financial clarity, controls, and a system that scales — let’s talk.
+
+## Tools & Technical Stack
+
+- Python, SQL, Streamlit, FastAPI  
+- PostgreSQL, Git/GitHub, Linux deployment  
+- ERP and accounting platforms (including Odoo)  
+- Financial modeling, reporting automation, and data pipelines  
+
+Technology is a means, not the product. The product is **financial clarity and decision safety**.
+
+---
+
+## Professional Engagement
+
+I operate as a **fractional financial systems and treasury advisor**, typically working with a small number of organizations at a time to ensure depth, accountability, and impact.
+
+If you are building or leading an organization and need clarity around cash flow, controls, or financial decision-making, feel free to connect.
+
+---
+
+**Location:** Canada  
+**LinkedIn:** [Add your LinkedIn URL]  
+**Email:** [Add your professional email]
