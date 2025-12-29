@@ -47,7 +47,7 @@ DPIO is a financial systems platform designed to enforce clarity, control, and a
 5. **DPIO Compute** – isolated client environments (long-term)
 
 **Positioning:**  
-DPIO helps organizations know where the money is—and what happens next.
+DPIO helps organizations know where the money is and what happens next.
 
 ---
 
