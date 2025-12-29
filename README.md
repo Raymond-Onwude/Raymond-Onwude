@@ -71,5 +71,5 @@ If you are building or leading an organization and need clarity around cash flow
 ---
 
 **Location:** Canada  
-**LinkedIn:** [Add your LinkedIn URL]  
-**Email:** [Add your professional email]
+**LinkedIn:** [www.linkedin.com/in/raymondonwude]  
+**Email:** [raymond@dpio.ca]
