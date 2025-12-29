@@ -11,7 +11,7 @@ Founder, **DPIO Solutions Ltd**
 
 I design financial systems that make money **visible, controllable, and decision-ready**.
 
-My work sits above bookkeeping and accounting execution. I focus on how financial truth is produced, structured, and trusted—so founders, executives, and boards can make decisions with confidence under growth pressure, cash constraints, or audit scrutiny.
+My work sits above bookkeeping and accounting execution. I focus on how financial truth is produced, structured, and trusted so founders, executives, and boards can make decisions with confidence under growth pressure, cash constraints, or audit scrutiny.
 
 ---
 
