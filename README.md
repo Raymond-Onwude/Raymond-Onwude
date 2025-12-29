@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./e974a26d-9287-4723-8947-ac78fbd38334.png" alt="DPIO Solutions Ltd" width="280">
+  <img src="assets/dpio-logo.png" alt="DPIO Solutions Ltd" width="280">
 </p>
 
 # Raymond Okhia Onwude
