@@ -5,7 +5,7 @@
 # Raymond Okhia Onwude
 
 **Financial Systems Architect & Treasury Advisor**  
-Founder, **DPIO Solutions Ltd**
+Founder, **DPIO**
 
 ---
 
