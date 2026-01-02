@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/dpio-logo.png" alt="DPIO Solutions Ltd" width="280">
-</p>
-
 # Raymond Okhia Onwude
 
 **Financial Systems Architect & Treasury Advisor**  
