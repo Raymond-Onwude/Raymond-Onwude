@@ -1,203 +1,131 @@
 <p align="center">
-  <img src="https://erp.dpio.ca/dpio_core/static/description/icon.png" width="120">
+  <img src="https://erp.dpio.ca/dpio_core/static/description/icon.png" width="115">
 </p>
 
-<h1 align="center">
-DPIO Cloud Technologies
-</h1>
+<h1 align="center">DPIO Cloud Technologies</h1>
 
-<h3 align="center">
-Founder • Systems Architect • Raymond O. Onwude
-</h3>
+<h3 align="center">Building Business Operating Infrastructure</h3>
 
 <p align="center">
-
-Building the operating systems behind modern businesses.
-
-<b>Data • Process • Integrate • Optimise</b>
-
+  <b>Data • Process • Integrate • Optimise</b>
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge">
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/AI-Automation-blue?style=for-the-badge">
-
+  <a href="https://dpio.ca">Website</a> •
+  <a href="https://dpio.ca/systems-architect-review">Systems Architect Review</a> •
+  <a href="https://dpio.ca/resources">Resources</a> •
+  <a href="https://www.linkedin.com/in/raymondonwude">LinkedIn</a>
 </p>
 
 ---
 
-# What is DPIO?
+# Raymond O. Onwude
 
-DPIO is **not another software company.**
+**Founder • Systems Architect**  
+**DPIO Cloud Technologies Inc.**
 
-DPIO is a Business Operating Infrastructure methodology that helps organisations architect how they operate before selecting technology.
+I build the operating systems behind modern businesses.
 
-Instead of implementing software first, DPIO designs the business operating system.
-
-Technology becomes the implementation.
-
-The operating model comes first.
+DPIO helps organisations move from disconnected software, spreadsheets, manual processes and unclear reporting into structured operating infrastructure designed for visibility, control and scale.
 
 ---
 
-# The DPIO Law
+# What DPIO Does
 
-## 🔷 Data
+DPIO is not just software implementation.
 
-Create a trusted operational and financial source of truth.
+DPIO is **Business Operating Infrastructure**.
 
-## 🔷 Process
+We design how a business should operate first, then build the systems, workflows, automations and intelligence layer around that operating model.
 
-Design workflows that reduce friction and create consistency.
-
-## 🔷 Integrate
-
-Connect ERP, CRM, Finance, Operations, AI and People into one environment.
-
-## 🔷 Optimise
-
-Measure.
-
-Improve.
-
-Automate.
-
-Scale.
-
-Repeat.
+| Layer | What it means |
+|---|---|
+| **Data** | Create a trusted source of operational and financial truth |
+| **Process** | Design workflows that reduce friction and manual risk |
+| **Integrate** | Connect ERP, CRM, finance, operations, AI and people |
+| **Optimise** | Measure, automate, improve and scale continuously |
 
 ---
 
-# Services
+# The DPIO Engagement Framework
 
-✔ Free Discovery
+| Stage | Purpose |
+|---|---|
+| **Discovery** | Understand the business, constraints and current system gaps |
+| **Systems Architect Review** | Identify what should be built, fixed, automated or redesigned |
+| **Business Process Review** | Map workflows, approvals, bottlenecks and operational risk |
+| **Systems Blueprint** | Design the architecture before implementation |
+| **Implementation Roadmap** | Prioritise the build in phases |
+| **Optimisation** | Improve continuously after deployment |
 
-✔ Systems Architect Review
-
-✔ Business Process Review
-
-✔ Systems Blueprint
-
-✔ ERP Architecture
-
-✔ Infrastructure Design
-
-✔ AI & Automation
-
-✔ Long-Term Operational Optimisation
+Start here: [Systems Architect Review](https://dpio.ca/systems-architect-review)
 
 ---
 
-# DPIO Engagement Framework
-
-Every engagement follows a structured operating methodology.
-
-1️⃣ Discovery
-
-2️⃣ Systems Architect Review
-
-3️⃣ Business Systems Blueprint
-
-4️⃣ Implementation Roadmap
-
-5️⃣ Technology Deployment
-
-6️⃣ Continuous Optimisation
-
-The objective is not simply to implement software.
-
-The objective is to build an operating system that scales with the organisation.
-
----
-
-# Case Study
+# Proof in Production
 
 ## KL Cleaning & Home Services
 
-A complete business operating transformation.
+The DPIO methodology has already been applied in a real operating business.
 
-The engagement included:
+| Area | Transformation |
+|---|---|
+| Website | Rebuilt around conversion, trust and local search visibility |
+| CRM | Structured lead handling, quoting and customer follow-up |
+| ERP | Operational visibility across quotes, invoices and jobs |
+| Finance | Better tracking of revenue, contractor cost and margin |
+| SEO | Increased discoverability and organic demand |
+| Operations | Scheduling, service scope and client communication systems |
 
-• Website Architecture
-
-• ERP Implementation
-
-• CRM
-
-• SEO Strategy
-
-• Scheduling
-
-• Financial Visibility
-
-• Reporting
-
-• Operational Automation
-
-• Business Process Optimisation
-
-The result was a measurable transformation from disconnected workflows into a scalable operating environment.
-
-Read more:
-
-https://dpio.ca/case-study/kl-cleaning
+Read the case study: [KL Cleaning Transformation](https://dpio.ca/case-study/kl-cleaning)
 
 ---
 
-# Current Projects
+# Current DPIO Builds
 
-🚀 DPIO Infrastructure
-
-Python platform for infrastructure management, GitHub automation, server health, backups, snapshots, deployment and monitoring.
-
-🚀 DPIO Framework
-
-Business Operating Infrastructure methodology.
-
-🚀 DPIO OS
-
-Operating System for Modern Businesses.
+| Project | Purpose | Status |
+|---|---|---|
+| **DPIO Infrastructure** | Server health, backups, GitHub automation, snapshots, deployment and monitoring | Active |
+| **DPIO OS** | Operating layer for business systems | Building |
+| **DPIO Framework** | Methodology, architecture and engagement model | Active |
+| **Financial Architecture Notes** | Ledger design, controls, reporting and decision intelligence | Active |
 
 ---
 
-# Technology
+# Technical Stack
 
-Python
-
-PostgreSQL
-
-Linux
-
-GitHub
-
-Odoo
-
-Docker
-
-Automation
-
-Artificial Intelligence
-
-Cloud Infrastructure
+| Domain | Tools |
+|---|---|
+| ERP | Odoo |
+| Infrastructure | Linux, Nginx, DigitalOcean |
+| Data | PostgreSQL, SQL |
+| Automation | Python, Bash, GitHub CLI |
+| AI | LLM-assisted workflows and operational intelligence |
+| Deployment | Git, GitHub, server automation |
 
 ---
 
-# Connect
+# Publications & Resources
 
-🌐 https://dpio.ca
-
-📘 https://www.linkedin.com/in/raymondonwude
-
-📧 raymond@dpio.ca
+| Resource | Link |
+|---|---|
+| DPIO Website | [Visit](https://dpio.ca) |
+| Resources Hub | [View](https://dpio.ca/resources) |
+| Systems Architect Review | [Start](https://dpio.ca/systems-architect-review) |
+| KL Cleaning Case Study | [Read](https://dpio.ca/case-study/kl-cleaning) |
+| DPIO Infrastructure Repository | [GitHub](https://github.com/Raymond-Onwude/dpio-infrastructure) |
 
 ---
 
-## DPIO Philosophy
+# Philosophy
 
-> Don't Panic.
+> Don't Panic. It's Organic.
 
-> It's Organic.
+DPIO is built on the belief that systems should grow from the real structure of the business, not from forcing the business into disconnected tools.
+
+---
+
+<p align="center">
+  <b>DPIO Cloud Technologies Inc.</b><br>
+  <a href="https://dpio.ca">https://dpio.ca</a>
+</p>
